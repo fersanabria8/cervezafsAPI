@@ -1,4 +1,5 @@
-[
+{
+ "product : [
    {
       "nombre": "Honey",
       "precio": 190,
@@ -74,3 +75,5 @@
 ]
 
 
+
+}
