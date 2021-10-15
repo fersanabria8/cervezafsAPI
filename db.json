@@ -1,5 +1,5 @@
 {
- "product : [
+ "product" : [
    {
       "nombre": "Honey",
       "precio": 190,
@@ -73,7 +73,4 @@
       "img": "img/stout1.webp"
    }
 ]
-
-
-
 }
